@@ -18,5 +18,6 @@ The project is aimed at minimising the hardware requirements of IOT Projects by 
 7. Add your code for monitoring your gadget based on sensor values into the workspace function of the arduino code. The Information for using the sensor values is provided in the workspace function itself.
 8. Install the code on your Arduino Module and use the phone as the sensor for monitoring your gadget.
 
-# Important : Make sure that the phone and Arduino are connected to the same WiFi
+# Important
+  Make sure that the phone and Arduino are connected to the same WiFi
 
