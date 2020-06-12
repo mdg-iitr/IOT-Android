@@ -1,5 +1,5 @@
 # IOT-Android
-The project is aimed at minimising the hardware requirements of IOT Projects by making use of our phones as sensors. In this project the code is provided for obtaining the accelometer and gyroscope sensor data from the phone to the arduino wirelessly.
+The project is aimed at minimising the hardware requirements of IOT Projects by making use of our phone as sensor. In this project the code is provided for obtaining the accelometer and gyroscope sensor data from the phone to the arduino wirelessly.
 
 # Requirements
 
